@@ -1,5 +1,9 @@
 MIT License
 
+Audio Interface Optimal Configuration
+Copyright (c) 2025 Gordon McLellan
+
+Original AIOC license information below:
 Copyright (c) 2022 Simon Kueppers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
